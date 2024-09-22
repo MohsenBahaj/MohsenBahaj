@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on mobile apps, web applications, and AI projects. I’m also open to job or remote work opportunities in these fields.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohsen-hasan-mohammed-ba-haj-44bbaa265/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring cutting-edge technology and can code while listening to classical music!
+- ⚡ Fun fact: I love exploring cutting-edge technology and can code while listening to music!
 
 <!---
 MohsenBahaj/MohsenBahaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
