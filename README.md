@@ -11,6 +11,9 @@
 
 <!-- CONTACT -->
 <div align="center">
+  <a href="https://bahaj.net/en" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/mohsen-bahaj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
