@@ -40,7 +40,7 @@
 Flutter Mobile Engineer building production-grade cross-platform applications (Android & iOS).  
 Experience designing scalable architectures, real-time systems, and full-stack platforms.
 
-- Built multiple deployed apps integrating Flutter clients with Node.js / Laravel backends and PostgreSQL  
+- Built multiple deployed apps integrating Flutter clients with Node.js backend and PostgreSQL  
 - Implemented chat systems, booking platforms, payments, RBAC systems, and real-time messaging  
 - Integrated AI systems using RAG pipelines, vector databases, and controlled LLM workflows  
 - Strong focus on clean architecture, modular systems, and production reliability  
