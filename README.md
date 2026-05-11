@@ -80,5 +80,5 @@ Git, GitHub, Docker, Firebase, Google Cloud, VS Code
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsenbahaj&theme=dark&border_radius=5" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=mohsenbahaj&theme=dark&border_radius=5&hide_current_streak=true" height="220"/>
 </div>
