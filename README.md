@@ -78,12 +78,12 @@ Git, GitHub, Docker, Firebase, Google Cloud, VS Code
 ---
 ## 📦 Open Source
 
-[![flutter_ios_configurator](https://img.shields.io/pub/v/flutter_ios_capabilities_setup.svg?label=flutter_ios_capabilities_setup&color=00ADB5)](https://pub.dev/packages/flutter_ios_capabilities_setup)
+[![flutter_ios_capabilities_setup](https://img.shields.io/pub/v/flutter_ios_capabilities_setup.svg?label=flutter_ios_capabilities_setup&color=00ADB5)](https://pub.dev/packages/flutter_ios_capabilities_setup)
 
 Configure iOS capabilities for Flutter without Xcode — works from Windows, macOS, and Linux.
 
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsenbahaj&theme=dark&border_radius=5&hide_current_streak=true" height="220"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mohsenbahaj&hide_current_streak=true&theme=dark&border_radius=5" height="220" />
 </div>
